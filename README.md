@@ -1,8 +1,25 @@
-Header
+<h2>Hi, I'm Grigory, a software QA engineer</h2>
+My name is Olga and I am a Software QA Engineer. Here I want to share some web and mobile testing portfolio items gained during some of my studies and pet-projects.
 
-My Cv
+<h3>A little about me<h3>
+- test
+- test_1
+- test_2
+- test_3
 
-Skills and Tools
+<h3>My Cv<h3>
+
+<h3>Skills:<h3>
+- Theoretical knowledge of QA
+- Creating test documentation: Checklists, Test Case, Test Suites, Bug Reports
+- Bug Tracking Systems: YouTrack, Azure DevOps, Yandex Tracker
+- Mobile testing, Android SDK, iMazing
+- Linux, DevTools, XML, UI/UX
+- SQL, PostgreSQL, Dbeaver
+- REST, SOAP, API, JSON API
+- Postman, Swagger
+
+Tools
 
 Testing Artefacts
 
