@@ -2,24 +2,37 @@
 My name is Olga and I am a Software QA Engineer. Here I want to share some web and mobile testing portfolio items gained during some of my studies and pet-projects.
 
 <h3>A little about me<h3>
-- test
-- test_1
-- test_2
-- test_3
+<p>- test<p>
+<p>- test_1<p>
+<p>- test_2<p>
+<p>- test_3<p>
 
 <h3>My Cv<h3>
 
 <h3>Skills:<h3>
-- Theoretical knowledge of QA
-- Creating test documentation: Checklists, Test Case, Test Suites, Bug Reports
-- Bug Tracking Systems: YouTrack, Azure DevOps, Yandex Tracker
-- Mobile testing, Android SDK, iMazing
-- Linux, DevTools, XML, UI/UX
-- SQL, PostgreSQL, Dbeaver
-- REST, SOAP, API, JSON API
-- Postman, Swagger
+<p>- Theoretical knowledge of QA<p>
+<p>- Creating test documentation: Checklists, Test Case, Test Suites, Bug Reports<p>
+<p>- Bug Tracking Systems: YouTrack, Azure DevOps, Yandex Tracker<p>
+<p>- Mobile testing, Android SDK, iMazing<p>
+<p>- Linux, DevTools, XML, UI/UX<p>
+<p>- SQL, PostgreSQL, Dbeaver<p>
+<p>- REST, SOAP, API, JSON API<p>
+<p>- Postman, Swagger<p>
 
 Tools
+<h2>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>
+<img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
+<img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" 
+title="devtools" alt="devtools" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>
+
 
 Testing Artefacts
 
