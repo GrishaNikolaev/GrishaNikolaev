@@ -2,10 +2,10 @@
 My name is Grigory. I'm a software quality assurance engineer. Here I want to share my achievements and portfolio elements about web testing obtained in the process of my research and home study
 
 <h3>A little about me<h3>
-<h5>- test<h5>
-<h5>- test_1<h5>
-<h5>- test_2<h5>
-<h5>- test_3<h5>
+<h4>- test<h4>
+<h4>- test_1<h4>
+<h4>- test_2<h4>
+<h4>- test_3<h4>
 
 <h3>My Cv<h3>
 
