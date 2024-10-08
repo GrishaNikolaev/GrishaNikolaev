@@ -1,5 +1,5 @@
 <h2>Hi, I'm Grigory, a software QA engineer</h2>
-My name is Olga and I am a Software QA Engineer. Here I want to share some web and mobile testing portfolio items gained during some of my studies and pet-projects.
+My name is Grigory. I'm a software quality assurance engineer. Here I want to share my achievements and portfolio elements about web testing obtained in the process of my research and home study
 
 <h3>A little about me<h3>
 <p>- test<p>
