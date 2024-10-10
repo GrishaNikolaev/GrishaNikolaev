@@ -19,17 +19,6 @@ My name is Grigory. I'm a software quality assurance engineer. Here I want to sh
 <p>- REST, SOAP, API, JSON API<p>
 <p>- Postman, Swagger<p>
 
-<h3>Skills:<h3>
-- Theoretical knowledge of QA
-- Creating test documentation: Checklists, Test Case, Test Suites, Bug Reports
-- Bug Tracking Systems: YouTrack, Azure DevOps, Yandex Tracker
-- Mobile testing, Android SDK, iMazing
-- Linux, DevTools, XML, UI/UX
-- SQL, PostgreSQL, Dbeaver
-- REST, SOAP, API, JSON API
-- Postman, Swagger
-
-
 Tools
 <h2>
 <p align="center">
