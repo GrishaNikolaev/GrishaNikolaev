@@ -1,11 +1,11 @@
 <h2>Hi, I'm Grigory, a software QA engineer</h2>
 My name is Grigory. I'm a software quality assurance engineer. Here I want to share my achievements and portfolio elements about web testing obtained in the process of my research and home study
 
-<h3>A little about me<h3>
-<h4>- test<h4>
-<h4>- test_1<h4>
-<h4>- test_2<h4>
-<h4>- test_3<h4>
+<h3>A little about me<h4>
+- test
+- test_1
+- test_2
+- test_3
 
 <h3>My Cv<h3>
 
