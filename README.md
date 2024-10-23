@@ -2,7 +2,7 @@
 
 ---
 
-### I'm a software quality assurance engineer. Here I want to share my achievements and portfolio elements about web testing obtained in the process of my research and home study
+#### I'm a software quality assurance engineer. Here I want to share my achievements and portfolio elements about web testing obtained in the process of my research and home study
 
 ---
 
@@ -12,19 +12,25 @@
  - test_2
  - test_3
 
-<h3>My Cv<h3>
+---
 
-<h3>Skills:<h3>
-<p>- Theoretical knowledge of QA<p>
-<p>- Creating test documentation: Checklists, Test Case, Test Suites, Bug Reports<p>
-<p>- Bug Tracking Systems: YouTrack, Azure DevOps, Yandex Tracker<p>
-<p>- Mobile testing, Android SDK, iMazing<p>
-<p>- Linux, DevTools, XML, UI/UX<p>
-<p>- SQL, PostgreSQL, Dbeaver<p>
-<p>- REST, SOAP, API, JSON API<p>
-<p>- Postman, Swagger<p>
+<h3>My Cv<h3> (tut poka pusto)
 
-Tools
+---
+
+### Skills:
+ - Theoretical knowledge of QA<p>
+ - Creating test documentation: Checklists, Test Case, Test Suites, Bug Reports
+ - Bug Tracking Systems: YouTrack, Azure DevOps, Yandex Tracker
+ - Mobile testing, Android SDK, iMazing
+ - Linux, DevTools, XML, UI/UX
+ - SQL, PostgreSQL, Dbeaver
+ - REST, SOAP, API, JSON API
+ - Postman, Swagger
+
+---
+
+### Tools:
 <h2>
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>
@@ -43,11 +49,9 @@ title="devtools" alt="devtools" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>
 
+---
 
-
-Testing Artefacts
-
-Follow Me
+## Follow Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/NikGrisha)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/grigory_nikolaev_?igshid=OGQ5ZDc2ODk2ZA==)
