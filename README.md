@@ -60,4 +60,4 @@ title="devtools" alt="devtools" width="40" height="40"/>
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/n_grishh)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/grigory_nikolaev_?igshid=OGQ5ZDc2ODk2ZA==)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/grigory-nikolaev-892890260)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=flat-square&log=Vk&logoColor=white)](https://vk.com/grigorynik)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=flat-square&logo=Vk&logoColor=white)](https://vk.com/grigorynik)
