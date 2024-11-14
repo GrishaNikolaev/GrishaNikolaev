@@ -14,8 +14,8 @@
 
 ---
 
-<h3>My Cv<h3> (tut poka pusto)
-
+## My CV
+[Сслыка на резюме](file:///Users/grigoriy/Downloads/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%20%D0%93.%D0%90..pdfа)
 ---
 
 ### Skills:
