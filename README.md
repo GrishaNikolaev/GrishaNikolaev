@@ -15,7 +15,7 @@
 ---
 
 ## My CV
-[Сслыка на резюме](https://drive.google.com/drive/my-drive?hl=ru)
+[Сслыка на резюме](https://drive.google.com/file/d/1Kqrk39aH4AiHJKWak9joy0k1Mq68Cps0/view)
 ---
 
 ### Skills:
